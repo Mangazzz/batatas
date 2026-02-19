@@ -1,0 +1,24 @@
+<html>
+    <style>
+        body{
+            background-color:Sienna;
+            background-image:url("https://saude.abril.com.br/wp-content/uploads/2025/02/batata-inglesa-branca.jpg?quality=85&strip=info&w=1280&h=720&crop=1");
+            background-size:105%;
+            background-repeat:no-repeat;
+            
+        }
+        div{
+            background-color:Sienna;
+            width:80%;
+            height:30px;
+            color:White;
+            margin-left:10%;
+        }
+    
+    </style>
+    <body>
+        <div>
+            <p>Batatinhas</p>
+        </div>
+    </body>
+</html>
