@@ -1,24 +1,45 @@
 <html>
     <style>
         body{
-            background-color:Sienna;
-            background-image:url("https://saude.abril.com.br/wp-content/uploads/2025/02/batata-inglesa-branca.jpg?quality=85&strip=info&w=1280&h=720&crop=1");
-            background-size:105%;
+            background-color:Black;
+            background-image:url(https://i0.wp.com/geekpopnews.com.br/wp-content/uploads/2025/10/Ordem-Paranormal-Hexatombe-capa.jpg?resize=1201%2C640&ssl=1);
+            background-size:100%;
             background-repeat:no-repeat;
             
         }
         div{
-            background-color:Sienna;
+            background-color:Maroon;
             width:80%;
             height:30px;
             color:White;
             margin-left:10%;
         }
-    
+        
+        #A {
+            background-color:DarkRed;
+        }
+        #B {
+            background-color:FireBrick;
+        }
+        #C {
+            background-color:Salmon;
+            color:Maroon;
+            font-family:Courier, monospace;
+        }
+        
     </style>
     <body>
         <div>
-            <p>Batatinhas</p>
+            <p>Tudo</p>
+        </div>
+        <div id=A>
+            Começa
+        </div>
+        <div id=B>
+            Pelo
+        </div>
+        <div id=C>
+            <b>Sangue</b>
         </div>
     </body>
 </html>
